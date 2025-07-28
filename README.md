@@ -1,5 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Project Description
 
+AskMyPDF is a web application that allows users to upload PDF documents and interact with them using AI-powered queries. Built with Next.js, it provides a seamless interface for extracting information, searching content, and asking questions about your PDFs. The project aims to simplify document analysis and enhance productivity by leveraging modern web technologies and AI.
 ## Getting Started
 
 Install the required dependencies:
@@ -70,6 +71,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-## Project Description
-
-AskMyPDF is a web application that allows users to upload PDF documents and interact with them using AI-powered queries. Built with Next.js, it provides a seamless interface for extracting information, searching content, and asking questions about your PDFs. The project aims to simplify document analysis and enhance productivity by leveraging modern web technologies and AI.
